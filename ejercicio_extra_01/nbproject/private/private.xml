@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Facundo/Documents/JPA/ejercicio_extra_01/src/libreria/servicios/LibroServicio.java</file>
+            <file>file:/C:/Users/Facundo/Documents/JPA/ejercicio_extra_01/src/libreria/entidades/Editorial.java</file>
+            <file>file:/C:/Users/Facundo/Documents/JPA/ejercicio_extra_01/src/libreria/persitencia/EditorialDAO.java</file>
+            <file>file:/C:/Users/Facundo/Documents/JPA/ejercicio_extra_01/src/libreria/entidades/Libro.java</file>
+            <file>file:/C:/Users/Facundo/Documents/JPA/ejercicio_extra_01/src/libreria/servicios/AutorServicio.java</file>
+            <file>file:/C:/Users/Facundo/Documents/JPA/ejercicio_extra_01/src/libreria/persitencia/LibroDAO.java</file>
+            <file>file:/C:/Users/Facundo/Documents/JPA/ejercicio_extra_01/src/libreria/servicios/PrestamoServicio.java</file>
+            <file>file:/C:/Users/Facundo/Documents/JPA/ejercicio_extra_01/src/META-INF/persistence.xml</file>
+            <file>file:/C:/Users/Facundo/Documents/JPA/ejercicio_extra_01/src/libreria/Ejercicio_01.java</file>
+            <file>file:/C:/Users/Facundo/Documents/JPA/ejercicio_extra_01/src/libreria/servicios/EditorialServicio.java</file>
+            <file>file:/C:/Users/Facundo/Documents/JPA/ejercicio_extra_01/src/libreria/persitencia/ClienteDAO.java</file>
+            <file>file:/C:/Users/Facundo/Documents/JPA/ejercicio_extra_01/src/libreria/persitencia/DAO.java</file>
+            <file>file:/C:/Users/Facundo/Documents/JPA/ejercicio_extra_01/src/libreria/entidades/Cliente.java</file>
+            <file>file:/C:/Users/Facundo/Documents/JPA/ejercicio_extra_01/src/libreria/persitencia/PrestamoDao.java</file>
+            <file>file:/C:/Users/Facundo/Documents/JPA/ejercicio_extra_01/src/libreria/entidades/Autor.java</file>
+            <file>file:/C:/Users/Facundo/Documents/JPA/ejercicio_extra_01/src/libreria/servicios/ClienteServicio.java</file>
+            <file>file:/C:/Users/Facundo/Documents/JPA/ejercicio_extra_01/src/libreria/persitencia/AutorDAO.java</file>
+            <file>file:/C:/Users/Facundo/Documents/JPA/ejercicio_extra_01/src/libreria/entidades/Prestamo.java</file>
+        </group>
+    </open-files>
+</project-private>
